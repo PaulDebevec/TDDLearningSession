@@ -1,0 +1,8 @@
+<h1>All Blogs</h1>
+
+<% @blogs.each do |blog| %>
+  <section id='blog-<%= blog.id %>'>
+    <img src=<%= blog.image %>>
+    <p><%= link_to blog.title, "/blogs/#{blog.id}" %></p>
+  </section>
+<% end %>
