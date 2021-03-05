@@ -1,0 +1,7 @@
+<h1><%= @blog.title %></h1>
+<img src=<%= @blog.image %>>
+<% @blog.blog_posts.each do |post| %>
+<section id="blog_post-<%= post.id %>">
+  <p><%= post.post_body %></p>
+</section>
+<% end %>
