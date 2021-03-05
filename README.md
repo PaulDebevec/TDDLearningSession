@@ -4,7 +4,6 @@
 
 * [About](#about)
   * [Tech Stack](#tech-stack)
-  * [Schema](#schema)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
   * [Testing](#testing)
