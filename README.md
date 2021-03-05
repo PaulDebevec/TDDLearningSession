@@ -8,13 +8,13 @@
   * [Installation](#installation)
   * [Testing](#testing)
 * [Version Information](#version-information)
-  * [Branch v1](#branch-v1)
-  * [Branch v2](#branch-v2)
-  * [Branch v3](#branch-v3)
+  + [Branch v1](#branch-v1)
+  + [Branch v2](#branch-v2)
+  + [Branch v3](#branch-v3)
 
 ## About
 
-I created this repository with multiple branches for an easy-to-setup learning session on test driven development.
+I created this repository with multiple branches for an easy-to-setup learning session on test driven development. This is my first attempt at creating an instructive repository, and in the future I hope to break the branch versions into smaller pieces of functionality to properly demonstrate how TDD should operate. 
 
 ### Tech Stack
 
@@ -62,11 +62,11 @@ bundle exec rspec
 
 ## Version Information
 
-## Branch v1
+#### Branch v1
 Branch v1 contains the first set of tests for displaying the blog index page
 
-## Branch v2
+#### Branch v2
 Branch v2 contains the functionality tested in v1, as well as new tests to implement blog_posts, and the one to many relationship between blogs and blog_posts
 
-## Branch v3
+#### Branch v3
 Branch v3 contains the functionality of v1 and v2 with all passing tests.
