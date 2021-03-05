@@ -14,7 +14,7 @@
 
 ## About
 
-I created this repository with multiple branches for an easy-to-setup learning session on test driven development.
+I created this repository with multiple branches for an easy-to-setup learning session on test driven development. This is my first attempt at creating an instructive repository, and in the future I hope to break the branch versions into smaller pieces of functionality to properly demonstrate how TDD should operate. 
 
 ### Tech Stack
 
